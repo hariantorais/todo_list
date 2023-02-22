@@ -98,3 +98,4 @@ public class RecycleItemTouchHelper extends ItemTouchHelper.SimpleCallback {
     }
 
 }
+
